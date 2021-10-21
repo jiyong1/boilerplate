@@ -1,3 +1,5 @@
-# Boilerplate
+# Boilerplate: TypeScript-React-App
 
-🌟 충분히 재사용할 수 있는 코드를 이해하고 작성해보자.
+- TypeScript
+- React
+- Webpack / Babel
